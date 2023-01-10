@@ -1,1 +1,1 @@
-import cv2
+import cv
